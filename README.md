@@ -1,5 +1,5 @@
 ### 💫 About Me:
-After many years in photography, design, SMM, SEO. It's time to take care of Web Development. <br>
+After many years in photography, design, SMM. It's time to take care of Web Development. <br>
 <br>let personalInfo {
 <br> &emsp;&emsp; Name : Wiktor Wieczorkiewicz,
 <br> &emsp;&emsp; Position : Web developer & UI Design Enthusiast,
