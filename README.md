@@ -2,7 +2,7 @@
 <br>let personalInfo {
 <br> &emsp;&emsp; Name : W.W,
 <br> &emsp;&emsp; Position : Web developer & UI Design Enthusiast,
-<br> &emsp;&emsp; Country : Poland
+<br> &emsp;&emsp; Country : 
 <br>}
 
 
